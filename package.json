@@ -26,7 +26,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/typography": "^0.4.0",
-    "core-js": "^3.8.3",
+    "core-js": "^3.21.1",
     "nuxt": "^2.14.12",
     "tailwind-hamburgers": "^1.0.2",
     "tailwindcss-textshadow": "^2.1.3"
